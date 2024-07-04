@@ -13,10 +13,10 @@ Lifelong Learner: Always exploring new technologies and methodologies to enhance
 
 Skills & Tools
 Programming Languages: Python and SQL
-Data Visualization: Power BI, Matplotlib and Seaborn
+Data Visualization: Power BI, Advanced Excel and Matplotlib 
 Data Analysis: Pandas and NumPy
 Databases: MySQL and SQL Server
-Other Tools: Advanced Excel, Jupyter Notebooks and VS Code 
+Other Tools: Jupyter Notebooks and VS Code 
 
 How to Reach Me
 LinkedIn: https://www.linkedin.com/in/hairav-kumar-0835b6184/
