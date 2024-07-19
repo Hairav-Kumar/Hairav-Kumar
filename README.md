@@ -1,9 +1,6 @@
 👋 Hi there! I'm Hairav Kumar
 🧑‍💻 Data Analyst 
-Welcome to my GitHub profile! I’m a passionate data enthusiast with a keen interest in uncovering insights and telling stories through data.
-Strong problem-solving abilities and a keen eye for detail, combined with a proactive approach to learning and adapting to new technologies. 
-Good understanding of business mathematics, statistics, and business logic. 
-And Eager to contribute to a dynamic team environment and apply academic knowledge to real-world data challenges in pursuit of organizational success.
+Welcome to my GitHub profile! Proactive and results-driven Data Analyst with robust experience in utilizing SQL for data extraction, transformation, data cleaning and analysis. Adept in advanced Excel functions, Power BI for interactive data visualization, and Python libraries such as Pandas and NumPy for comprehensive data manipulation and analysis. Demonstrated ability to derive actionable insights from complex datasets, streamline data processes, and support data-driven decision-making. Strong analytical skills with a focus on improving business performance through meticulous data analysis and reporting. And Good understanding of business mathematics, statistics and business logic.
 
 🌟 About Me
 Data Enthusiast: I love diving deep into data to discover patterns and insights that drive decision-making.
